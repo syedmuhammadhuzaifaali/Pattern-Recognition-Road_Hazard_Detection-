@@ -4,7 +4,7 @@
 **Group:** [WS25-PR7]
 
 ## Project Overview:
-This project presents a **Road Hazard Detection (Cracks & Potholes)** designed to automate road surface inspections. By combining Deep Learning (CNN) with a Rule-Based Meta-Learner, the system doesn't just identify hazards—it evaluates their severity to help engineers prioritize repairs.
+This project presents a **Road Hazard Detection (Cracks & Potholes)** designed to automate road surface inspections. By combining Deep Learning (CNN) with a Rule-Based Meta-Learner, the system doesn't just identify hazards, it evaluates their severity to help engineers prioritize repairs.
 
 ## Dataset & Setup:
 We utilize the **RDD-2022 (China_Urban subset)**. To ensure project synchronization, we use a standardized Google Drive workflow.
