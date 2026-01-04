@@ -29,6 +29,8 @@ The system follows a three-tier logic structure:
     * **Inference:** Batch processing and CSV generation (Cell 12).
 
 ## Key Research Outcomes
-* **RQ1-3:** Established baseline accuracy and improved regional generalization for the China_Urban dataset.
-* **RQ4:** Visualized model performance via Confusion Matrices, highlighting high precision in hazard detection.
-* **RQ5:** Demonstrated "Maintenance Intelligence" by successfully distinguishing between cosmetic cracks and dangerous potholes.
+* **RQ1-RQ3:** Established baseline CNN performance on the China_Urban dataset and motivated a hybrid architecture by analyzing geometric features and rule-based severity mapping for improved interpretability and robustness.
+* **RQ4:** Compared CNN-only and hybrid models using confusion matrices, demonstrating reduced class confusion and more consistent hazard classification in the hybrid approach.
+* **RQ5:** Demonstrated explainability-driven “Maintenance Intelligence” by visualizing how the model differentiates between cosmetic cracks and structurally significant potholes.
+
+
